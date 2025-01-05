@@ -74,6 +74,10 @@ body{
     opacity: 0;
 }
 
+.fidded-text {
+    white-space: nowrap;
+}
+
 @keyframes slidefromLeftIrfan {
     0%{
         opacity: 0;
@@ -367,7 +371,7 @@ body{
 .fidded-text{
     position: absolute;
     top: 109%;
-    right: 84%;
+    right: 25%;
     user-select: none;
     color: #847ea4;
     font-size: 5rem;
